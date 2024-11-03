@@ -11,7 +11,7 @@ All project files are public and published under the *GNU GENERAL PUBLIC LICENSE
 
 **Please refer to the 'LICENSE' file you can find in the repository.**
 
- [LICENSE File]('')
+ [LICENSE File]('https://github.com/togneeeez/NoteDetective/blob/main/LICENSE')
 
 ## Contacts
 For any additional information, contact the author of the repository.
